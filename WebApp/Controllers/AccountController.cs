@@ -16,6 +16,8 @@ using Microsoft.Owin.Security.OAuth;
 using WebApp.Models;
 using WebApp.Providers;
 using WebApp.Results;
+using static WebApp.Models.AccountBind;
+using static WebApp.Models.AccountView;
 
 namespace WebApp.Controllers
 {
